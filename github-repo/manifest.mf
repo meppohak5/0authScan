@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: OAuth Security Checks
-Implementation-Version: 1.1.0
-Implementation-Vendor: Mayur Patil (meppo)
-
